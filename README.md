@@ -4,7 +4,11 @@
 
 🌱 I am also upgrading my QA skills by learning new testing tools such as Cucumber, Selenium, Cypress, etc.
 
+🔭 I’m currently working on tools development Python projects for validate audio and video media.<img align="center" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
