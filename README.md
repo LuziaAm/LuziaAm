@@ -8,7 +8,7 @@
 
 🧠 I'm enthusiastic to learn Artificial Intelligence (NLP, LLMs, Prompt Engineer). 
 
-<img align="center" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+I love Python lenguage <img align="center" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
