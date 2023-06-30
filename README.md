@@ -17,6 +17,6 @@ I love Python lenguage <img align="center" width="30" src="https://cdn.jsdelivr.
   
 <div> <a href="https://www.linkedin.com/in/luzia-amorim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
-<div><img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<div><img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" target=”_blank” />
 </div>
 
